@@ -1,8 +1,8 @@
 <!-- UNITY CODE ASSIST INSTRUCTIONS START -->
-- Project name: Casual Fishing
+- Project name: Casual-Fishing
 - Unity version: Unity 6000.0.47f1
 - Active game object:
-  - Name: Player
+  - Name: FishingDetector
   - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

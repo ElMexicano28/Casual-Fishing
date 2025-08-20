@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 66d9dff0014f2de46a94bea554510e89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2294549464321521703
+    second: spritesheet_fishguy_0
+  - first:
+      213: 8577878838332662583
+    second: spritesheet_fishguy_1
+  - first:
+      213: -5549960628021955550
+    second: spritesheet_fishguy_2
+  - first:
+      213: -7279834854069141791
+    second: spritesheet_fishguy_3
+  - first:
+      213: 259452293313869686
+    second: spritesheet_fishguy_4
+  - first:
+      213: 5633903342529582527
+    second: spritesheet_fishguy_5
+  - first:
+      213: -3615602377843437622
+    second: spritesheet_fishguy_6
+  - first:
+      213: 5221707551971483810
+    second: spritesheet_fishguy_7
+  - first:
+      213: 4853746695804750975
+    second: spritesheet_fishguy_8
+  - first:
+      213: 3119611898235019192
+    second: spritesheet_fishguy_9
+  - first:
+      213: -1313079347588957100
+    second: spritesheet_fishguy_10
+  - first:
+      213: 7643564727583644785
+    second: spritesheet_fishguy_11
+  - first:
+      213: 1525821556510905927
+    second: spritesheet_fishguy_12
+  - first:
+      213: 1709592028053212009
+    second: spritesheet_fishguy_13
+  - first:
+      213: -2763080412205340198
+    second: spritesheet_fishguy_14
+  - first:
+      213: -4377941231845110566
+    second: spritesheet_fishguy_15
+  - first:
+      213: 7917512229061864926
+    second: spritesheet_fishguy_16
+  - first:
+      213: -4957712979024785990
+    second: spritesheet_fishguy_17
+  - first:
+      213: 5460366500598116161
+    second: spritesheet_fishguy_18
+  - first:
+      213: -6440716204927845747
+    second: spritesheet_fishguy_19
+  - first:
+      213: 91397525796937543
+    second: spritesheet_fishguy_20
+  - first:
+      213: -5305460598993970884
+    second: spritesheet_fishguy_21
+  - first:
+      213: -4653528815930436448
+    second: spritesheet_fishguy_22
+  - first:
+      213: -5382361902092007678
+    second: spritesheet_fishguy_23
+  - first:
+      213: -6983675419356216763
+    second: spritesheet_fishguy_24
+  - first:
+      213: 7740794936062622924
+    second: spritesheet_fishguy_25
+  - first:
+      213: 2654175476006735579
+    second: spritesheet_fishguy_26
+  - first:
+      213: -4086632215816843909
+    second: spritesheet_fishguy_27
+  - first:
+      213: 3536630715167183563
+    second: spritesheet_fishguy_28
+  - first:
+      213: 631076472996626977
+    second: spritesheet_fishguy_29
+  - first:
+      213: -419360627985312340
+    second: spritesheet_fishguy_30
+  - first:
+      213: 8641178714831706132
+    second: spritesheet_fishguy_31
+  - first:
+      213: -962858253590342921
+    second: spritesheet_fishguy_32
+  - first:
+      213: 8869068242624250067
+    second: spritesheet_fishguy_33
+  - first:
+      213: 8425613652595670982
+    second: spritesheet_fishguy_34
+  - first:
+      213: -6204903288719078169
+    second: spritesheet_fishguy_35
+  - first:
+      213: -5287870152680537156
+    second: spritesheet_fishguy_36
+  - first:
+      213: 674266401677727041
+    second: spritesheet_fishguy_37
+  - first:
+      213: -5328756240868228765
+    second: spritesheet_fishguy_38
+  - first:
+      213: -1362982211040285579
+    second: spritesheet_fishguy_39
+  - first:
+      213: 2474905644233945917
+    second: spritesheet_fishguy_40
+  - first:
+      213: -4188408612708667114
+    second: spritesheet_fishguy_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_fishguy_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 925
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728727ca490e7df10800000000000000
+      internalID: 2294549464321521703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 905
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733a82d1b5fba0770800000000000000
+      internalID: 8577878838332662583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 924
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f859b6349af2b0800000000000000
+      internalID: -5549960628021955550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 929
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee73bb35c4d8fa90800000000000000
+      internalID: -7279834854069141791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 928
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67732237c72c99300800000000000000
+      internalID: 259452293313869686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 913
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb59c568d35af2e40800000000000000
+      internalID: 5633903342529582527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 934
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf859b2bccc2ddc0800000000000000
+      internalID: -3615602377843437622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 920
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02c3c4a5b377840800000000000000
+      internalID: 5221707551971483810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 806
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c0b2157e8fb5340800000000000000
+      internalID: 4853746695804750975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 806
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf51673e761b4b20800000000000000
+      internalID: 3119611898235019192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 807
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cfe055a4107cde0800000000000000
+      internalID: -1313079347588957100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 808
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c14555f95631a60800000000000000
+      internalID: 7643564727583644785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 809
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746577a1f9ecc2510800000000000000
+      internalID: 1525821556510905927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 808
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b83f644e0b9b710800000000000000
+      internalID: 1709592028053212009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 808
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad929a8210197a9d0800000000000000
+      internalID: -2763080412205340198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 811
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc065c15ad6e33c0800000000000000
+      internalID: -4377941231845110566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 713
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd2b0e6c67a0ed60800000000000000
+      internalID: 7917512229061864926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 713
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd42ea005aa23bb0800000000000000
+      internalID: -4957712979024785990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 713
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fe79be66e17cb40800000000000000
+      internalID: 5460366500598116161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 711
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7c2a6cbafd96a0800000000000000
+      internalID: -6440716204927845747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 711
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd972c095b44100800000000000000
+      internalID: 91397525796937543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 607
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39122bd1b73f56b0800000000000000
+      internalID: -5305460598993970884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 609
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a41c6682385b6fb0800000000000000
+      internalID: -4653528815930436448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 610
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207c535fd520e45b0800000000000000
+      internalID: -5382361902092007678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 612
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54245aa0530051f90800000000000000
+      internalID: -6983675419356216763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 611
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccb72b5bf3dc6b60800000000000000
+      internalID: 7740794936062622924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 609
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde4fe2788685d420800000000000000
+      internalID: 2654175476006735579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 609
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dc190d6ad5947c0800000000000000
+      internalID: -4086632215816843909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 611
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc29647c5e2a41130800000000000000
+      internalID: 3536630715167183563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 509
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122021765b802c800800000000000000
+      internalID: 631076472996626977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 507
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca596201bb12e2af0800000000000000
+      internalID: -419360627985312340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 503
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d53a1242abe770800000000000000
+      internalID: 8641178714831706132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 507
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2d1b1158d33a2f0800000000000000
+      internalID: -962858253590342921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 509
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0015a8392451b70800000000000000
+      internalID: 8869068242624250067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 417
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf75a9e9facde470800000000000000
+      internalID: 8425613652595670982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 419
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec0f3a7551c3e9a0800000000000000
+      internalID: -6204903288719078169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 423
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3061bcc16bd96b0800000000000000
+      internalID: -5287870152680537156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 424
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1455bfb48b97b5900800000000000000
+      internalID: 674266401677727041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 334
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36147609e647c06b0800000000000000
+      internalID: -5328756240868228765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 337
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c64c386e6b51de0800000000000000
+      internalID: -1362982211040285579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 336
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d337c212291a85220800000000000000
+      internalID: 2474905644233945917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_fishguy_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 340
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6113051de88cfd5c0800000000000000
+      internalID: -4188408612708667114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spritesheet_fishguy_0: 2294549464321521703
+      spritesheet_fishguy_1: 8577878838332662583
+      spritesheet_fishguy_10: -1313079347588957100
+      spritesheet_fishguy_11: 7643564727583644785
+      spritesheet_fishguy_12: 1525821556510905927
+      spritesheet_fishguy_13: 1709592028053212009
+      spritesheet_fishguy_14: -2763080412205340198
+      spritesheet_fishguy_15: -4377941231845110566
+      spritesheet_fishguy_16: 7917512229061864926
+      spritesheet_fishguy_17: -4957712979024785990
+      spritesheet_fishguy_18: 5460366500598116161
+      spritesheet_fishguy_19: -6440716204927845747
+      spritesheet_fishguy_2: -5549960628021955550
+      spritesheet_fishguy_20: 91397525796937543
+      spritesheet_fishguy_21: -5305460598993970884
+      spritesheet_fishguy_22: -4653528815930436448
+      spritesheet_fishguy_23: -5382361902092007678
+      spritesheet_fishguy_24: -6983675419356216763
+      spritesheet_fishguy_25: 7740794936062622924
+      spritesheet_fishguy_26: 2654175476006735579
+      spritesheet_fishguy_27: -4086632215816843909
+      spritesheet_fishguy_28: 3536630715167183563
+      spritesheet_fishguy_29: 631076472996626977
+      spritesheet_fishguy_3: -7279834854069141791
+      spritesheet_fishguy_30: -419360627985312340
+      spritesheet_fishguy_31: 8641178714831706132
+      spritesheet_fishguy_32: -962858253590342921
+      spritesheet_fishguy_33: 8869068242624250067
+      spritesheet_fishguy_34: 8425613652595670982
+      spritesheet_fishguy_35: -6204903288719078169
+      spritesheet_fishguy_36: -5287870152680537156
+      spritesheet_fishguy_37: 674266401677727041
+      spritesheet_fishguy_38: -5328756240868228765
+      spritesheet_fishguy_39: -1362982211040285579
+      spritesheet_fishguy_4: 259452293313869686
+      spritesheet_fishguy_40: 2474905644233945917
+      spritesheet_fishguy_41: -4188408612708667114
+      spritesheet_fishguy_5: 5633903342529582527
+      spritesheet_fishguy_6: -3615602377843437622
+      spritesheet_fishguy_7: 5221707551971483810
+      spritesheet_fishguy_8: 4853746695804750975
+      spritesheet_fishguy_9: 3119611898235019192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

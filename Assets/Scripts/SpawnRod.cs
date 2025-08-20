@@ -8,7 +8,8 @@ public class SpawnRod : MonoBehaviour
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Detector detector;
     [SerializeField] private PlayerMovement playerMovement;
-    [SerializeField] private RandomHook randomHook;
+    [SerializeField] private float minTime = 1f;
+    [SerializeField] private float maxTime = 5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -16,8 +17,6 @@ public class SpawnRod : MonoBehaviour
         if (spriteRenderer != null)
             spriteRenderer.enabled = false;
 
-        if (randomHook == null)
-            randomHook = FindObjectOfType<RandomHook>();
 
         detector = FindObjectOfType<Detector>();
         playerMovement = FindObjectOfType<PlayerMovement>();
@@ -45,8 +44,7 @@ public class SpawnRod : MonoBehaviour
                 //randomhook
                 Debug.Log("Rod action performed");
                 spriteRenderer.enabled = !spriteRenderer.enabled;
-                if (randomHook != null)
-                    StartCoroutine(randomHook.RandomTimerCoroutine());
+                StartCoroutine(RandomTimerCoroutine());
             }
             else
             {
@@ -70,5 +68,20 @@ public class SpawnRod : MonoBehaviour
         if (playerMovement != null)
             playerMovement.canMove = true; // Re-enable player movement
         // Add any other logic you want to trigger after 1 second here
+        spriteRenderer.enabled = !spriteRenderer.enabled;
+    }
+
+    public IEnumerator RandomTimerCoroutine()
+    {
+        float waitTime = Random.Range(minTime, maxTime);
+        Debug.Log($"Waiting for {waitTime} seconds...");
+        yield return new WaitForSeconds(waitTime);
+
+        // Action after timer completes
+        Debug.Log("Random timer finished!");
+        // Place your hook logic here
+        spriteRenderer.enabled = !spriteRenderer.enabled;
+        if (playerMovement != null)
+            playerMovement.canMove = true;
     }
 }
